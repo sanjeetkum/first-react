@@ -17,7 +17,7 @@ function About() {
                 <img src="/w3images/avatar_smoke.jpg" style= {{ width: "90px" }}/>
               </div>
               <div className="w3-col l10 m9">
-                <h4>George <span className="w3-opacity w3-medium">May 3, 2015, 6:32 PM</span></h4>
+                <h4>George <span className="w3-opacity w3-medium">October 21, 2019, 11:32 PM</span></h4>
                 <p>Great blog post! Following</p>
               </div>
           </div>
