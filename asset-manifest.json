@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/first-react/static/css/main.9a441d6d.chunk.css",
-    "main.js": "/first-react/static/js/main.854b780c.chunk.js",
-    "main.js.map": "/first-react/static/js/main.854b780c.chunk.js.map",
-    "runtime-main.js": "/first-react/static/js/runtime-main.89ffac8d.js",
-    "runtime-main.js.map": "/first-react/static/js/runtime-main.89ffac8d.js.map",
-    "static/css/2.d788185a.chunk.css": "/first-react/static/css/2.d788185a.chunk.css",
-    "static/js/2.eca9a00c.chunk.js": "/first-react/static/js/2.eca9a00c.chunk.js",
-    "static/js/2.eca9a00c.chunk.js.map": "/first-react/static/js/2.eca9a00c.chunk.js.map",
-    "index.html": "/first-react/index.html",
-    "precache-manifest.a02aa1585bb018d940ef56449c096bab.js": "/first-react/precache-manifest.a02aa1585bb018d940ef56449c096bab.js",
-    "service-worker.js": "/first-react/service-worker.js",
-    "static/css/2.d788185a.chunk.css.map": "/first-react/static/css/2.d788185a.chunk.css.map",
-    "static/css/main.9a441d6d.chunk.css.map": "/first-react/static/css/main.9a441d6d.chunk.css.map",
-    "static/media/index.css": "/first-react/static/media/4.f9aa66af.jpg"
+    "main.css": "/first-react/my-git-app/static/css/main.0ab6df46.chunk.css",
+    "main.js": "/first-react/my-git-app/static/js/main.4337443b.chunk.js",
+    "main.js.map": "/first-react/my-git-app/static/js/main.4337443b.chunk.js.map",
+    "runtime-main.js": "/first-react/my-git-app/static/js/runtime-main.4328bb19.js",
+    "runtime-main.js.map": "/first-react/my-git-app/static/js/runtime-main.4328bb19.js.map",
+    "static/css/2.d788185a.chunk.css": "/first-react/my-git-app/static/css/2.d788185a.chunk.css",
+    "static/js/2.eca9a00c.chunk.js": "/first-react/my-git-app/static/js/2.eca9a00c.chunk.js",
+    "static/js/2.eca9a00c.chunk.js.map": "/first-react/my-git-app/static/js/2.eca9a00c.chunk.js.map",
+    "index.html": "/first-react/my-git-app/index.html",
+    "precache-manifest.615d0d943384b62dc062b44849aa1d7e.js": "/first-react/my-git-app/precache-manifest.615d0d943384b62dc062b44849aa1d7e.js",
+    "service-worker.js": "/first-react/my-git-app/service-worker.js",
+    "static/css/2.d788185a.chunk.css.map": "/first-react/my-git-app/static/css/2.d788185a.chunk.css.map",
+    "static/css/main.0ab6df46.chunk.css.map": "/first-react/my-git-app/static/css/main.0ab6df46.chunk.css.map",
+    "static/media/index.css": "/first-react/my-git-app/static/media/4.f9aa66af.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.89ffac8d.js",
+    "static/js/runtime-main.4328bb19.js",
     "static/css/2.d788185a.chunk.css",
     "static/js/2.eca9a00c.chunk.js",
-    "static/css/main.9a441d6d.chunk.css",
-    "static/js/main.854b780c.chunk.js"
+    "static/css/main.0ab6df46.chunk.css",
+    "static/js/main.4337443b.chunk.js"
   ]
 }
