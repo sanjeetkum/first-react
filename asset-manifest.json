@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sanjeetkum/first-react/static/css/main.fd3cacb0.chunk.css",
+    "main.js": "/sanjeetkum/first-react/static/js/main.01fae1ed.chunk.js",
+    "main.js.map": "/sanjeetkum/first-react/static/js/main.01fae1ed.chunk.js.map",
+    "runtime-main.js": "/sanjeetkum/first-react/static/js/runtime-main.e66fc1b2.js",
+    "runtime-main.js.map": "/sanjeetkum/first-react/static/js/runtime-main.e66fc1b2.js.map",
+    "static/css/2.d788185a.chunk.css": "/sanjeetkum/first-react/static/css/2.d788185a.chunk.css",
+    "static/js/2.eca9a00c.chunk.js": "/sanjeetkum/first-react/static/js/2.eca9a00c.chunk.js",
+    "static/js/2.eca9a00c.chunk.js.map": "/sanjeetkum/first-react/static/js/2.eca9a00c.chunk.js.map",
+    "index.html": "/sanjeetkum/first-react/index.html",
+    "precache-manifest.d84fa9f61d8512c22718cebbc689f5f0.js": "/sanjeetkum/first-react/precache-manifest.d84fa9f61d8512c22718cebbc689f5f0.js",
+    "service-worker.js": "/sanjeetkum/first-react/service-worker.js",
+    "static/css/2.d788185a.chunk.css.map": "/sanjeetkum/first-react/static/css/2.d788185a.chunk.css.map",
+    "static/css/main.fd3cacb0.chunk.css.map": "/sanjeetkum/first-react/static/css/main.fd3cacb0.chunk.css.map",
+    "static/media/index.css": "/sanjeetkum/first-react/static/media/4.f9aa66af.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e66fc1b2.js",
+    "static/css/2.d788185a.chunk.css",
+    "static/js/2.eca9a00c.chunk.js",
+    "static/css/main.fd3cacb0.chunk.css",
+    "static/js/main.01fae1ed.chunk.js"
+  ]
+}
